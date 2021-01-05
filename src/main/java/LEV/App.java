@@ -1,4 +1,4 @@
-package LEV-by;
+package LEV;
 
 /**
  * Hello world!
